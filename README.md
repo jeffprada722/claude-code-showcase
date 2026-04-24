@@ -1,3 +1,11 @@
+# Fork oficial de Sendero IA
+
+**Distribuido por [Jefferson Prada](https://senderoiapro.com)** | [Guia en Sendero IA](https://senderoiapro.com/es/guias)
+
+Fork del proyecto original de [@ChrisWiles](https://github.com/ChrisWiles) mantenido para la comunidad latina. Instrucciones en espanol disponibles en senderoiapro.com.
+
+---
+
 # Claude Code Project Configuration Showcase
 
 > Most software engineers are seriously sleeping on how good LLM agents are right now, especially something like Claude Code.
@@ -942,3 +950,7 @@ Commit everything except:
 ## License
 
 MIT - Use this as a template for your own projects.
+
+---
+
+Distributed by [Sendero IA](https://senderoiapro.com) | Original project by [@ChrisWiles](https://github.com/ChrisWiles)
